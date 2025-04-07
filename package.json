@@ -1,0 +1,17 @@
+{
+  "name": "cypress-clientflow",
+  "version": "1.0.0",
+  "description": "Testes automatizados referente ao Projeto integrador - ClientFlow",
+  "main": "index.js",
+  "scripts": {
+    "runner": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-clientflow": "file:"
+  },
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
